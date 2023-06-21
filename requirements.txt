@@ -1,0 +1,1 @@
+cltk_readers @ git+https://github.com/diyclassics/cltk_readers.git@46ca6b7db3d3066551925ae7fa27bb353be7c91d#egg=cltk_readers
