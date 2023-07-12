@@ -1,3 +1,4 @@
+annoy==1.17.3
 cltk_readers @ git+https://github.com/diyclassics/cltk_readers.git#egg=cltk_readers
 natsort==8.2.0
 pandas==1.5.3
