@@ -1,5 +1,5 @@
 annoy==1.17.3
-cltk_readers @ git+https://github.com/diyclassics/cltk_readers.git@model-sm#egg=cltk_readers
+cltk_readers @ git+https://github.com/diyclassics/cltk_readers.git@model-md#egg=cltk_readers
 natsort==8.2.0
 pandas==1.5.3
 scikit-learn==1.3.0
